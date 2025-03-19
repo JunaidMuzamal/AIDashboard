@@ -112,6 +112,6 @@ else:
 
 st.markdown("""
 <div style='text-align:center; padding:20px; background-color:#f0f2f6; border-top:1px solid #ccc;'>
-Developed with ❤️ by <a href='#' target='_blank'>Kutub Thakur</a>
+Developed with ❤️ by <a href='https://www.pkprogrammers.com/' target='_blank'>Junaid Hussain</a>
 </div>
 """, unsafe_allow_html=True)
