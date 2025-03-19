@@ -53,7 +53,7 @@ pip install -r requirements.txt
 
 ## Running the Application
 ```bash
-streamlit run app.py
+streamlit run Main.py
 ```
 
 ## Key Functionalities
@@ -73,5 +73,8 @@ streamlit run app.py
 
 ## License
 This project is developed for educational purposes for CUNY cybersecurity compliance management.
+
+## Test Link
+https://junaidmuzamal-aidashboard-main-wi1suk.streamlit.app/
 
 ---
